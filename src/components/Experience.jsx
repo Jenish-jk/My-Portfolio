@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import { motion, useScroll } from "framer-motion";
+import { motion } from "framer-motion";
 import { EXPERIENCE } from "../constants/data";
 import { Briefcase, Calendar } from "lucide-react";
 

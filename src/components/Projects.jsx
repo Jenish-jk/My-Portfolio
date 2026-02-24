@@ -1,5 +1,5 @@
-import React, { useRef } from "react";
-import { motion, useScroll, useTransform } from "framer-motion";
+import React from "react";
+import { motion } from "framer-motion";
 import { PROJECTS } from "../constants/data";
 import { ExternalLink, Github, ArrowUpRight } from "lucide-react";
 
