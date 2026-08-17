@@ -34,7 +34,7 @@ export const NAV_LINKS = [
 ];
 
 export const HIGHLIGHT_CARDS = [
-    { title: "1+ Years Experience", icon: Rocket },
+    { title: "2+ Years Experience", icon: Rocket },
     { title: "Cloud Specialist", icon: Cloud },
     { title: "REST API Architect", icon: Layers },
     { title: "DB Optimization", icon: Database },
